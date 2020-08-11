@@ -1,17 +1,18 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
+- title: Cloud Consultant - Infrastructure & Security, Centrica
   from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  to: Present
+  description:  Designing and delivering solutions for Centrica’s Cloud programme.
+                Overseeing the migration of core applications into Azure and AWS.
+                Consulting on cloud migrations, cloud infrastructure,
+                enterprise infrastructure, perimeter security, WAFs, proxy solutions.
+
+- title: Technical Lead - Network and Security, CenturyLink
+  from: 2016
+  to: 2018
+  description:  Responsible for leading the technical relationship of high profile 
+                Centurylink Technology Solutions clients, liaising closely and 
+                supporting, strategic initiatives.  Working in the Hosting Network and Security team
+                in the Global Operations Centre.  I provide technical focus and guidance
+                and consultancy services to a subset of Centurylink Technology Solutions
+                customers in a complex hosting solutions environment.  Consult, design, approve
+                and execute change requests to ensure successful change management.
