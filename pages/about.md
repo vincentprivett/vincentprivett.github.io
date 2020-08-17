@@ -10,7 +10,7 @@ weight: 3
 Hi I am **{{ site.author.name }}** :wave:,
 
 
-Cloud consultant working cloud migrations, cloud infrastructure, enterprise infrastructure, perimeter security, WAFs, proxy solutions.
+Cloud consultant working on cloud migrations, cloud infrastructure, enterprise infrastructure, perimeter security, WAFs, proxy solutions.
 
 Licenses & certifications:
 
