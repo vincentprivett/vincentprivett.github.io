@@ -14,10 +14,13 @@ Cloud consultant working on cloud migrations, cloud infrastructure, enterprise i
 
 Licenses & certifications:
 
+(ISC)² Certified Cloud Security Professional (CCSP)
+
 AWS Certified Advanced Networking – Specialty - Amazon Web Services (AWS)
 <br>AWS Certified SysOps Administrator – Associate - Amazon Web Services (AWS)
 <br>AWS Certified Developer – Associate - Amazon Web Services (AWS)
 <br>AWS Certified Solutions Architect – Associate - Amazon Web Services (AWS)
+
 <br>Microsoft Certified: Azure Administrator Associate (AZ-104) - Microsoft
 <br>Microsoft Certified: Azure Solutions Architect Expert - Microsoft
 
